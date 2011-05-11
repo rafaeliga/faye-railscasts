@@ -2,4 +2,8 @@ to start the faye server:
 
 rackup faye.ru -s thin -E production
 
-to configure your server, change "http://air:9292/faye" to localhost or the local name.
+to configure your server, change:
+
+http://air:9292/faye
+
+to your localhost or the local name.
